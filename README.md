@@ -14,6 +14,13 @@
 - 📱 Experienced in **web, mobile, and desktop** development — from idea to a production product.
 - 🌱 Always learning, always shipping.
 
+### Connect with Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ela-erdem/)
+
+- 🔗 LinkedIn: [linkedin.com/in/ela-erdem](https://www.linkedin.com/in/ela-erdem/)
+- 📫 Email: **elaerdem563@gmail.com**
+
 ---
 
 ## 🚀 KatipÖzet — AI Legal-Tech Platform
@@ -54,15 +61,6 @@ A legal-tech platform that turns legal documents into **fast, clear, AI-powered 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elaerdem563-coder&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ela-erdem/)
-
-- 🔗 LinkedIn: [linkedin.com/in/ela-erdem](https://www.linkedin.com/in/ela-erdem/)
-- 📫 Email: **elaerdem563@gmail.com**
 
 ---
 
