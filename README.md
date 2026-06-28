@@ -1,4 +1,4 @@
-#                                                                                               Hi 👋, I'm Ela Erdem
+# Hi 👋, I'm Ela Erdem
 
 ### Pilot | Software Developer | Computer Engineer | Co-Founder of KatipÖzet
 
@@ -50,6 +50,9 @@ A legal-tech platform that turns legal documents into **fast, clear, AI-powered 
 
 ## Connect with Me
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ela-erdem/)
+
+- 🔗 LinkedIn: [linkedin.com/in/ela-erdem](https://www.linkedin.com/in/ela-erdem/)
 - 📫 Email: **elaerdem563@gmail.com**
 
 ---
