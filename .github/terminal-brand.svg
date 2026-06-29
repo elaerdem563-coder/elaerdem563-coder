@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Ela Erdem">
+  <rect x="2" y="2" width="896" height="326" rx="16" fill="#0a0e16" stroke="#1b2735" stroke-width="2"/>
+  <rect x="34" y="56" width="832" height="250" rx="12" fill="#0b1220" stroke="#1e2a3c" stroke-width="1.5"/>
+  <circle cx="62" cy="84" r="6" fill="#ff5f56"/>
+  <circle cx="82" cy="84" r="6" fill="#ffbd2e"/>
+  <circle cx="102" cy="84" r="6" fill="#27c93f"/>
+  <text x="450" y="89" text-anchor="middle" font-family="monospace" font-size="13" fill="#5b6b7f">ela@katipozet: ~/github/profile</text>
+  <text x="64" y="150" font-family="monospace" font-size="16" font-weight="700" fill="#22d3ee">$ whoami</text>
+  <text x="62" y="198" font-family="'Segoe UI',Arial,sans-serif" font-size="46" font-weight="800" fill="#f8fafc">Ela Erdem</text>
+  <text x="64" y="230" font-family="monospace" font-size="13" fill="#38bdf8">Pilot <tspan fill="#a855f7">|</tspan> Software Developer (App Builder) <tspan fill="#a855f7">|</tspan> Computer Engineer <tspan fill="#a855f7">|</tspan> Co-Founder of KatipÖzet</text>
+  <text x="64" y="262" font-family="monospace" font-size="14" font-weight="700" fill="#cbd5e1">building apps for android, ios &amp; backend systems_</text>
+  <rect x="64" y="276" width="156" height="24" rx="12" fill="#0e1726" stroke="#22d3ee"/>
+  <text x="142" y="292" text-anchor="middle" font-family="monospace" font-size="11" fill="#cbd5e1">Android / iOS Apps</text>
+  <rect x="232" y="276" width="118" height="24" rx="12" fill="#0e1726" stroke="#7c3aed"/>
+  <text x="291" y="292" text-anchor="middle" font-family="monospace" font-size="11" fill="#cbd5e1">Backend APIs</text>
+  <rect x="362" y="276" width="120" height="24" rx="12" fill="#0e1726" stroke="#a855f7"/>
+  <text x="422" y="292" text-anchor="middle" font-family="monospace" font-size="11" fill="#cbd5e1">Frontend Lead</text>
+</svg>
