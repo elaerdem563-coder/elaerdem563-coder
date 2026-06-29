@@ -28,9 +28,9 @@
   </p>
 
   <p align="center">
-    <sub><b>\ud83d\udee0\ufe0f builder mode</b></sub>
+    <sub><b>🛠️ builder mode</b></sub>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <sub><b>\ud83d\ude80 ship mode</b></sub>
+    <sub><b>🚀 ship mode</b></sub>
   </p>
 
   <br/>
