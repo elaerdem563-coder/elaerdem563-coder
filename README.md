@@ -34,7 +34,7 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=elaerdem563-coder&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-24%2C317-7C3AED?style=for-the-badge&labelColor=020617" />
   <img src="https://img.shields.io/github/followers/elaerdem563-coder?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=020617" />
   <img src="https://img.shields.io/github/stars/elaerdem563-coder?label=TOTAL%20STARS&style=for-the-badge&color=A855F7&labelColor=020617" />
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-22C55E?style=for-the-badge&labelColor=020617" />
