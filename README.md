@@ -34,9 +34,9 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=elaerdem563-coder&label=PROFILE%20VIEWS&base=560&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/elaerdem563-coder?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=020617" />
-  <img src="https://img.shields.io/github/stars/elaerdem563-coder?label=TOTAL%20STARS&style=for-the-badge&color=A855F7&labelColor=020617" />
+  <img src="https://komarev.com/ghpvc/?username=codebyela&label=PROFILE%20VIEWS&base=560&color=7C3AED&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/codebyela?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=020617" />
+  <img src="https://img.shields.io/github/stars/codebyela?label=TOTAL%20STARS&style=for-the-badge&color=A855F7&labelColor=020617" />
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-22C55E?style=for-the-badge&labelColor=020617" />
 
   <br/><br/>
@@ -190,17 +190,17 @@ Co-Founder<br/>Live Product
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=elaerdem563-coder&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Ela%20Erdem%20GitHub%20Stats" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=codebyela&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Ela%20Erdem%20GitHub%20Stats" />
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaerdem563-coder&layout=compact&theme=algolia&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
-
-<br/>
-
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=elaerdem563-coder&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyela&layout=compact&theme=algolia&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
 
 <br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=elaerdem563-coder&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" />
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyela&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+<br/>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=codebyela&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" />
 
 </div>
 
@@ -211,9 +211,9 @@ Co-Founder<br/>Live Product
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elaerdem563-coder/elaerdem563-coder/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elaerdem563-coder/elaerdem563-coder/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/elaerdem563-coder/elaerdem563-coder/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codebyela/codebyela/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codebyela/codebyela/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/codebyela/codebyela/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -239,8 +239,8 @@ Co-Founder<br/>Live Product
 
 <div align="center">
 
-<a href="https://github.com/elaerdem563-coder">
-<img src="https://img.shields.io/badge/GitHub-elaerdem563--coder-020617?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/codebyela">
+<img src="https://img.shields.io/badge/GitHub-codebyela-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/ela-erdem/">
